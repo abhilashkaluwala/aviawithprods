@@ -14,7 +14,7 @@
 	function headerStyle() {
 		if($('.main-header').length){
 			var windowpos = $(window).scrollTop();
-			var siteHeader = $('.main-header');
+			var siteHeader = $('.main-headerx');
 			var scrollLink = $('.scroll-top');
 			if (windowpos >= 110) {
 				siteHeader.addClass('fixed-header');

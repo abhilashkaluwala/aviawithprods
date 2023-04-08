@@ -474,7 +474,9 @@ figure{
   margin-top: 17px;
 }
 .main-header .logo-box img{
-  width: 100%;
+  width: 40%;
+    margin-left: 20px;
+
 }
 .main-header .logo-box a{
   position: relative;display: inline-block;
@@ -492,8 +494,9 @@ figure{
 }
 
 .main-menu .navigation{
-  position:relative;
-  margin:0px;
+  position: relative;
+  /* margin: 0px; */
+  margin-left: 200px;
 }
 
 .main-menu .navigation > li{
